@@ -16,7 +16,7 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
-!pip install streamlit
+pip install streamlit
 import streamlit as st
 
 """##**Generación de 1,000 datos de productos**"""
